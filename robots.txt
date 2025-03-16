@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unblockedgame76-dev.github.io/sitemap.xml

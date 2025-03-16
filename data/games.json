@@ -1,0 +1,41 @@
+[
+  {
+    "title": "1v1.LOL",
+    "slug": "1v1-lol",
+    "description": "1v1.LOL is a building battle royale game where you compete against other players.",
+    "instructions": "Use WASD to move, left click to shoot, Q to build walls.",
+    "url": "https://faf-games.github.io/1v1-lol.html",
+    "width": 1280,
+    "height": 720,
+    "thumb_1": "https://faf-games.github.io/assets/img/1v1.lol/logo.webp",
+    "thumb_2": "https://faf-games.github.io/assets/img/1v1.lol/thumb.webp",
+    "category": "Action,Shooter,Building",
+    "source": "json-importer"
+  },
+  {
+    "title": "Drive Mad",
+    "slug": "drive-mad",
+    "description": "Drive Mad is an exciting car game where you navigate challenging tracks.",
+    "instructions": "Use arrow keys to drive and balance the car.",
+    "url": "https://faf-games.github.io/drive-mad.html",
+    "width": 720,
+    "height": 1080,
+    "thumb_1": "https://faf-games.github.io/assets/img/drive.mad/logo.webp",
+    "thumb_2": "https://faf-games.github.io/assets/img/drive.mad/thumb.webp",
+    "category": "Car,Racing,Arcade",
+    "source": "json-importer"
+  },
+  {
+    "title": "World's Hardest Game",
+    "slug": "worlds-hardest-game",
+    "description": "Challenge yourself in the World's Hardest Game, a brutally difficult puzzle game.",
+    "instructions": "Use arrow keys to move your red square. Avoid blue dots and reach the goal.",
+    "url": "https://faf-games.github.io/worlds-hardest-game.html",
+    "width": 800,
+    "height": 600,
+    "thumb_1": "https://faf-games.github.io/assets/img/worlds.hardest.game/logo.webp",
+    "thumb_2": "https://faf-games.github.io/assets/img/worlds.hardest.game/thumb.webp",
+    "category": "Puzzle,Arcade,Challenge",
+    "source": "json-importer"
+  }
+]
